@@ -1,0 +1,14 @@
+Todo App
+what?
+
+1. user signup/login
+2. user can view profile
+3. user can update profile
+4. user can add task and uske sath vo dekh sakta hain task completed or not 
+5. list task 
+6. har task ke sath uuid hogi jisse vo particular delete aur update ho paye
+
+routes?
+
+
+ 
