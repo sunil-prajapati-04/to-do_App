@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 const PORT = process.env.Port;
 
 app.get('/',(req,res)=>{
-    res.send("Home route");
+    res.send("TODO APP(use it through postman app by different route)");
 })
 
 app.listen(PORT,()=>{
